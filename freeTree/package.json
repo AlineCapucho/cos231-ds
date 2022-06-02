@@ -1,0 +1,14 @@
+{
+  "name": "b3a9d202afbe084c",
+  "main": "b3a9d202afbe084c@234.js",
+  "version": "234.0.0",
+  "homepage": "https://observablehq.com/d/b3a9d202afbe084c",
+  "author": {
+    "name": "alinejpc",
+    "url": "https://observablehq.com/@alinejpc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@alinejpc/splay-trees",
+  "main": "71315135e0fde2f2@402.js",
+  "version": "402.0.0",
+  "homepage": "https://observablehq.com/@alinejpc/splay-trees",
+  "author": {
+    "name": "alinejpc",
+    "url": "https://observablehq.com/@alinejpc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

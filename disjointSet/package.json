@@ -1,0 +1,14 @@
+{
+  "name": "@alinejpc/disjointset",
+  "main": "71ec36c898a97745@644.js",
+  "version": "644.0.0",
+  "homepage": "https://observablehq.com/@alinejpc/disjointset",
+  "author": {
+    "name": "alinejpc",
+    "url": "https://observablehq.com/@alinejpc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
